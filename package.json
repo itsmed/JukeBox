@@ -1,0 +1,19 @@
+{
+  "name": "juke-box",
+  "version": "1.0.0",
+  "description": "An audio player using the soundcloud api",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmed/JukeBox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsmed/JukeBox/issues"
+  },
+  "homepage": "https://github.com/itsmed/JukeBox#readme"
+}
