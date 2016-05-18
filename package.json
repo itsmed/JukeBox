@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "An audio player using the soundcloud api",
   "main": "index.js",
-    "scripts": {
+  "scripts": {
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js ./test/**/*.js",
     "start": "node server.js",
     "postinstall": "NODE_ENV=production webpack --config ./webpack.production.config.js --progress --colors"
@@ -69,7 +69,7 @@
   "babel": {
     "presets": [
       "es2015",
-          "react"
+      "react"
     ]
   },
   "repository": {
